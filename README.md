@@ -27,7 +27,9 @@ Now, let's discuss all the mini projects briefly.
 
 ## Calculator - 
 As we know, Calculator is a tool to calculate numbers and expressions very fastly.
-So, This mini projects of calculator contains 2 files - index.html and style.css
+So, This mini projects of calculator contains 2 files - 
+1. index.html
+2. style.css
 where, index.html is a html file contain html code in it which gives a basic structure to the app. 
 and style.css is a css file used for styling the html code structure to make it look much better.
 
@@ -40,7 +42,32 @@ This project folder contains 3 files -
 1. index.html
 2. index.js
 3. styles.css
+
 The html file for made a sturcture of an app, whereas css for styling and make web page attractive.
 while, javascript/js file used for making web page more intersting and more attractive as it used to help play the drum sounds.
 
 [The Drum kit app](./drum/Drumkit.png)
+
+## Guess my number game -
+This mini project is a small game in which the game made a random number from 1-100 and the user have to guess that random number.
+for this project, we have to use javascript as it helps to construct a random number.
+This project also contain html, css and js files.
+
+The interface of the game is [Guess my number](./guess-my-no/guess.png)
+
+and when the user win the game then it shows that how much times the user have to guess the number
+it also shows that random number and gives a attractive interface to admire the user's work.
+[Result](./guess-my-no/guess_win.png)
+
+## Pig game -
+This mini project is also a game in which there are 2 players, they have to roll the dice. 
+If 0 appears that mean they don't have any point and the dice goes to second players.
+The both players have to collect more numbers then another player.
+to collect the numbers they have to do the hold.
+at last who have maximum numers that player will be the winner.
+
+This mini projects also have the html, css and js files.
+The js file helps to perform the functions.
+The interface of the game is [Pig game](./pigGame/pig.png)
+
+The result when a player win is [Result](./pigGame/pig_win.png)
