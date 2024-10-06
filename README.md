@@ -2,7 +2,7 @@
 This repository contains all the beginners level mini projects with code.
 This Repository have 5 mini projects in it:
 1. Calculator
-2. Drum player
+2. Drum Kit
 3. Guess my number game
 4. Pig game
 5. To-do list app
@@ -34,4 +34,13 @@ and style.css is a css file used for styling the html code structure to make it 
 So, as we can see here.
 [image of calculator](./calculator/calculator.png)
 
-##
+## Drum Kit -
+This mini project is a drum sound player and it's very interesting if you are a beginner of web development, as it taught you how to play sounds using web. 
+This project folder contains 3 files -
+1. index.html
+2. index.js
+3. styles.css
+The html file for made a sturcture of an app, whereas css for styling and make web page attractive.
+while, javascript/js file used for making web page more intersting and more attractive as it used to help play the drum sounds.
+
+[The Drum kit app](./drum/Drumkit.png)
