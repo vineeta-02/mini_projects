@@ -25,7 +25,7 @@ It is a commonly used programming language to create dynamic and interactive ele
 
 Now, let's discuss all the mini projects briefly.
 
-## Calculator - 
+## 1. Calculator - 
 As we know, Calculator is a tool to calculate numbers and expressions very fastly.
 So, This mini projects of calculator contains 2 files - 
 1. index.html
@@ -36,7 +36,7 @@ and style.css is a css file used for styling the html code structure to make it 
 So, as we can see here.
 [image of calculator](./calculator/calculator.png)
 
-## Drum Kit -
+## 2. Drum Kit -
 This mini project is a drum sound player and it's very interesting if you are a beginner of web development, as it taught you how to play sounds using web. 
 This project folder contains 3 files -
 1. index.html
@@ -48,7 +48,7 @@ while, javascript/js file used for making web page more intersting and more attr
 
 [The Drum kit app](./drum/Drumkit.png)
 
-## Guess my number game -
+## 3. Guess my number game -
 This mini project is a small game in which the game made a random number from 1-100 and the user have to guess that random number.
 for this project, we have to use javascript as it helps to construct a random number.
 This project also contain html, css and js files.
@@ -59,7 +59,7 @@ and when the user win the game then it shows that how much times the user have t
 it also shows that random number and gives a attractive interface to admire the user's work.
 [Result](./guess-my-no/guess_win.png)
 
-## Pig game -
+## 4. Pig game -
 This mini project is also a game in which there are 2 players, they have to roll the dice. 
 If 0 appears that mean they don't have any point and the dice goes to second players.
 The both players have to collect more numbers then another player.
@@ -71,3 +71,15 @@ The js file helps to perform the functions.
 The interface of the game is [Pig game](./pig_game/pig.png)
 
 The result when a player win is [Result](./pig_game/pig_win.png)
+
+## 5. To-do List -
+This mini project is to made a to-do list app, in which a user can list their tasks and complete them one-by-one without forgetting.
+It's very helpful app for students even for any person.
+This project also contains 3 files in it -
+1. index.html - It contain html code for the app.
+2. styles.css - It contain css code for styling and beautify the app.
+3. script.js - It's a javascript file used for functionality of the app.
+
+The interface of the app is [To-do list](./to-do-list/to-do.png)
+and how it's working is in [Result](./to-do-list/to-do.mp4)
+
