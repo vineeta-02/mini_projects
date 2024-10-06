@@ -68,6 +68,6 @@ at last who have maximum numers that player will be the winner.
 
 This mini projects also have the html, css and js files.
 The js file helps to perform the functions.
-The interface of the game is [Pig game](./pigGame/pig.png)
+The interface of the game is [Pig game](./pig_game/pig.png)
 
-The result when a player win is [Result](./pigGame/pig_win.png)
+The result when a player win is [Result](./pig_game/pig_win.png)
