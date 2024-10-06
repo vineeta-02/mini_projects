@@ -32,3 +32,4 @@ where, index.html is a html file contain html code in it
 and style.css is a css file used for styling the html code structure to make it look much better.
 
 So , as we can see here.
+[calculator -](./calculator/calculator.png)
