@@ -26,10 +26,12 @@ It is a commonly used programming language to create dynamic and interactive ele
 Now, let's discuss all the mini projects briefly.
 
 ## Calculator - 
-As we know, Calculator is a tool to calculate numbers and expressions with speed, very easily. So, yes this project actually a real calculator.
-This mini projects contain 2 files - index.html and style.css
-where, index.html is a html file contain html code in it 
+As we know, Calculator is a tool to calculate numbers and expressions very fastly.
+So, This mini projects of calculator contains 2 files - index.html and style.css
+where, index.html is a html file contain html code in it which gives a basic structure to the app. 
 and style.css is a css file used for styling the html code structure to make it look much better.
 
-So , as we can see here.
-[calculator -](./calculator/calculator.png)
+So, as we can see here.
+[image of calculator](./calculator/calculator.png)
+
+##
