@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Quicksand', sans-serif;
+    box-sizing: border-box;
+}
+
+/*container*/
+.container{
+    width: 100%;
+    min-height: 100vh;
+    background: linear-gradient(135deg, #a7efff, #1e85fc);
+    padding: 10px;
+}
+
+/*guess class*/
+.num{
+    width: 100%;
+    max-width: 580px;
+    background-color: #f0ffff;
+    margin: 100px auto 20px;
+    padding: 40px;
+    border-radius: 10px;
+    color: #082032;
+    text-align: center;
+}
+h1{
+    font-family: 'Raleway', sans-serif;
+    font-size: 50px;
+    padding-bottom: 30px;
+}
+h5{
+    font-family: 'Raleway', sans-serif;
+    font-weight: normal;
+    font-size: 16px;
+    padding-bottom: 4px;
+    color: #323536;
+}
+h4{
+    font-size: 20px;
+    color: #00bafd;
+}
+
+/*input*/
+input[type="text"]{
+    width: 180px;
+    height: 12vh;
+    padding: 20px 0;
+    margin-top: 30px;
+    background-color: #dbf2f7;
+    border-radius: 10px;
+    border: none;
+    
+    font-weight: 600;
+    font-size: 30px;
+    font-family: 'Poppins', sans-serif;
+    color: black;
+    text-align: center;
+}
+::placeholder{
+    font-size: 13px;
+    font-weight: 400;
+    font-family: 'Raleway', sans-serif;
+    font-weight: normal;
+    color: #898e8e;
+    text-align: center;
+}
+input:disabled{
+    background-color: #d1ffd8;
+    color: #15c46c;
+}
+button{
+    width: 100px;
+    padding: 15px 0;
+    border-radius: 10px;
+    background-color: transparent;
+    color: #00bafd;
+    border: 2px solid #00bafd;
+    font-size: 15px;
+    font-weight: 600;
+    margin: 20px 0 30px;
+    text-align: center;
+}
+button:hover{
+    background-color: #56a5ff;
+    color: white;
+    border: none;
+}
+button:disabled{
+    background-color: #15c46c;
+    color: white;
+    border: none;
+}
+
+/*p*/
+p{
+    font-family: 'Raleway', sans-serif;
+    font-weight: normal;
+    padding-bottom: 5px ;
+    font-size: 16px;
+    color: #898e8e;
+}

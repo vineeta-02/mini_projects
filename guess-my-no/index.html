@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guess Number</title>
+    <link rel="stylesheet" href="styles.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@700&family=Quicksand:wght@500;700&family=Raleway:wght@500;900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <div class="num">
+            <h1>Guess My Number</h1>
+            <h5>I'm thinking of a number between 1-100.</h5>
+            <h4>Can you guess the number?</h4>
+
+            <input type="text" id="guess" placeholder="Your Number"><br>
+            <button onclick="play()" id="myBtn">Check</button>
+            
+            <p id="msg1">No. of Guesses: 0</p>
+            <p id="msg2">Guessed Numbers: None</p>
+            <p id="msg3"></p>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
