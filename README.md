@@ -34,7 +34,9 @@ where, index.html is a html file contain html code in it which gives a basic str
 and style.css is a css file used for styling the html code structure to make it look much better.
 
 So, as we can see here.
-[image of calculator](./calculator/calculator.png)
+
+![calculator](https://github.com/user-attachments/assets/da787c36-c3dd-4def-8ddf-18d16351869c)
+
 
 ## 2. Drum Kit -
 This mini project is a drum sound player and it's very interesting if you are a beginner of web development, as it taught you how to play sounds using web. 
@@ -46,18 +48,24 @@ This project folder contains 3 files -
 The html file for made a sturcture of an app, whereas css for styling and make web page attractive.
 while, javascript/js file used for making web page more intersting and more attractive as it used to help play the drum sounds.
 
-[The Drum kit app](./drum/Drumkit.png)
+![Drum_kit](https://github.com/user-attachments/assets/e68c270a-83d4-42dd-bc31-c62ef584c8fd)
+
 
 ## 3. Guess my number game -
 This mini project is a small game in which the game made a random number from 1-100 and the user have to guess that random number.
 for this project, we have to use javascript as it helps to construct a random number.
 This project also contain html, css and js files.
 
-The interface of the game is [Guess my number](./guess-my-no/guess.png)
+The interface of the game is 
+
+![guess](https://github.com/user-attachments/assets/c77b437b-f442-4737-9e13-30a52058dea6)
+
 
 and when the user win the game then it shows that how much times the user have to guess the number
 it also shows that random number and gives a attractive interface to admire the user's work.
-[Result](./guess-my-no/guess_win.png)
+
+![guess_win](https://github.com/user-attachments/assets/064a8cd5-6f29-41ad-ad37-6436022b1c49)
+
 
 ## 4. Pig game -
 This mini project is also a game in which there are 2 players, they have to roll the dice. 
@@ -68,9 +76,15 @@ at last who have maximum numers that player will be the winner.
 
 This mini projects also have the html, css and js files.
 The js file helps to perform the functions.
-The interface of the game is [Pig game](./pig_game/pig.png)
 
-The result when a player win is [Result](./pig_game/pig_win.png)
+The interface of the game is 
+
+![pig](https://github.com/user-attachments/assets/799b8b31-74b9-4b06-8146-84c9f68a1d69)
+
+The result when a player win is 
+
+![pig_win](https://github.com/user-attachments/assets/a6ee7ed9-b511-4f5c-9e4e-4c559dca5aed)
+
 
 ## 5. To-do List -
 This mini project is to made a to-do list app, in which a user can list their tasks and complete them one-by-one without forgetting.
@@ -80,10 +94,25 @@ This project also contains 3 files in it -
 2. styles.css - It contain css code for styling and beautify the app.
 3. script.js - It's a javascript file used for functionality of the app.
 
-The interface of the app is [To-do list](./to-do-list/to-do.png)
-and how it's working is in [Result](./to-do-list/to-do.mp4)
+The interface of the app is 
 
-[![Watch the video](https://raw.githubusercontent.com/vineeta-02/mini_projects/main/to-do-list/to-do.mp4)]
+![to-do](https://github.com/user-attachments/assets/4c13df01-2cc1-4b89-86c9-334abde36474)
+
+and how it works -
+
+https://github.com/user-attachments/assets/dda56846-0bf6-4e81-a100-11f97c7fa829
+
+<hr/>
+
+So, These are the mini projects for beginner level for frontend web development.
+Hope , these projects with code are helpful for the beginners to understand how HTML, CSS and Javascript works together and also helpful to open up a path for journey to the backend technologies.
+That's all for now.
+
+#### Let's learn and grow together.
+
+
+
+
 
 
 
