@@ -83,3 +83,7 @@ This project also contains 3 files in it -
 The interface of the app is [To-do list](./to-do-list/to-do.png)
 and how it's working is in [Result](./to-do-list/to-do.mp4)
 
+[![Watch the video](https://raw.githubusercontent.com/vineeta-02/mini_projects/main/to-do-list/to-do.mp4)]
+
+
+
